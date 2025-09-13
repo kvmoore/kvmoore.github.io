@@ -1,6 +1,5 @@
-# kvmoore.github.io
 
-# My Personal Web Page
+# My personal website
 
 Paragraph
 

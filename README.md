@@ -17,4 +17,4 @@ Though I’m making this pivot later in life, I’m energized and committed to a
 problems, building meaningful software, and contributing to the growing world of AI.
 
 
-[My personal website](https://kvmoore.github.io/kmoore-my-knowledge-base/)    
+[My personal website](https://kvmoore.github.io/)    
